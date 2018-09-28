@@ -1,2 +1,4 @@
 oi
-bom dia
+bom dia!
+
+boa tarde!
